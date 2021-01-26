@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae3bcf56-ce0b-465f-897e-61ac6b1adf83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W2tIgo5wVpPo7Ijzt7ynH5v1gN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="pongTheGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Games" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pong/pongTheGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Games" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Snake" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Snake/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.pongTheGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae3bcf56-ce0b-465f-897e-61ac6b1adf83" name="Default Changelist" comment="" />
+      <created>1573155704591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573155704591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="612" height="271" key="GridCell.Tab.0.bottom" timestamp="1579824511242">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="612" height="271" key="GridCell.Tab.0.bottom/0.22.2560.1418/-2560.22.2560.1418@0.22.2560.1418" timestamp="1578538736471" />
+    <state width="612" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417/-2560.23.2560.1417@0.23.2560.1417" timestamp="1579824511242" />
+    <state width="612" height="271" key="GridCell.Tab.0.center" timestamp="1579824511241">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="612" height="271" key="GridCell.Tab.0.center/0.22.2560.1418/-2560.22.2560.1418@0.22.2560.1418" timestamp="1578538736470" />
+    <state width="612" height="271" key="GridCell.Tab.0.center/0.23.2560.1417/-2560.23.2560.1417@0.23.2560.1417" timestamp="1579824511241" />
+    <state width="612" height="271" key="GridCell.Tab.0.left" timestamp="1579824511241">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="612" height="271" key="GridCell.Tab.0.left/0.22.2560.1418/-2560.22.2560.1418@0.22.2560.1418" timestamp="1578538736470" />
+    <state width="612" height="271" key="GridCell.Tab.0.left/0.23.2560.1417/-2560.23.2560.1417@0.23.2560.1417" timestamp="1579824511241" />
+    <state width="612" height="271" key="GridCell.Tab.0.right" timestamp="1579824511242">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="612" height="271" key="GridCell.Tab.0.right/0.22.2560.1418/-2560.22.2560.1418@0.22.2560.1418" timestamp="1578538736470" />
+    <state width="612" height="271" key="GridCell.Tab.0.right/0.23.2560.1417/-2560.23.2560.1417@0.23.2560.1417" timestamp="1579824511242" />
+    <state x="959" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1581025214076">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="959" y="563" key="com.intellij.ide.util.TipDialog/0.22.2560.1418/-2560.22.2560.1418@0.22.2560.1418" timestamp="1578606837884" />
+    <state x="959" y="563" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/-2560.23.2560.1417@0.23.2560.1417" timestamp="1581025214076" />
+    <state x="1477" y="159" width="667" height="729" key="find.popup" timestamp="1578946989045">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1477" y="159" width="667" height="729" key="find.popup/0.23.2560.1417/-2560.23.2560.1417@0.23.2560.1417" timestamp="1578946989045" />
+  </component>
+</project>
