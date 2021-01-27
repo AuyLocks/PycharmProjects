@@ -44,22 +44,42 @@ class SingleLinkedList:
         if middleNode is None:
             print("The mentioned node is absent")
             return
+        # print(middleNode.nextval)
         NewNode = Node(newdata)
+
         NewNode.nextval = middleNode.nextval
         middleNode.nextval = NewNode
 
+    def RemoveNode(self, removeKey):
+        HeadVal = self.headval
+
+        if (HeadVal is not None):
+            if (HeadVal.dataval == removeKey):
+                self.headval = HeadVal.nextval
+                HeadVal = none
+                return
+
+        while (HeadVal is not None):
+            if HeadVal.dataval == removeKey:
+                break
+            prev = HeadVal
+            HeadVal = HeadVal.nextval
+
+        if (HeadVal == None):
+            return
+
+        prev.nextval = HeadVal.nextval
+
+        HeadVal = None
 
 
 
-list = SingleLinkedList()
-list.headval = Node("Mon")
-e2 = Node("Tue")
-e3 = Node("Wed")
 
-list.headval.nextval = e2
-e2.nextval = e3
-
-list.AtEnd("Thu")
-list.AtBeginning("Sun")
-
-list.listprint()
+llist = SingleLinkedList()
+llist.AtBeginning("Mon")
+llist.AtBeginning("Tue")
+llist.AtBeginning("Wed")
+llist.AtBeginning("Thu")
+llist.RemoveNode("Tue")
+print(llist.headval.dataval)
+llist.listprint()
